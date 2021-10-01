@@ -14,6 +14,7 @@ class Input {
         b = s.nextInt();
 
         c = a + b;
+        d= a-b
         System.out.println("a+b=" + c);
         s.close();
 
